@@ -1,6 +1,6 @@
 name: story_indicator
 description: A package help make a autorun indicator like story.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/dattran-pt19/story_indicator
 
 environment:

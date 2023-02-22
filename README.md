@@ -49,4 +49,5 @@ You can custom some value to change indicator UI
 | defaultColor | Set default color of indicator |
 | indicatorSpacing | Set indicator spacing |
 
+
 **Trần Đạt, Thank you!**
